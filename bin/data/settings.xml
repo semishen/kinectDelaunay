@@ -1,0 +1,11 @@
+<group>
+	<Noise_Amount>20</Noise_Amount>
+	<Point_Skip>4</Point_Skip>
+	<Min_Depth>300</Min_Depth>
+	<Max_Depth>3000</Max_Depth>
+	<Real_Colors>1</Real_Colors>
+	<Color_Alpha>255</Color_Alpha>
+<group/>
+<Camera_Zoom>504</Camera_Zoom>
+	<showWire>0</showWire>
+</group>
